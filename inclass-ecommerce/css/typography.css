@@ -12,9 +12,14 @@
 
 html {
   background-color: #f2f1ed;
-
   color: #444;
   font: normal 100%/1.5 Georgia,serif; /* 16px/24px */
+}
+
+body {
+      margin: 0 auto;
+      padding: 0;
+      max-width: 45rem;
 }
 
 h1, h2, h3, h4, h5, h6,
